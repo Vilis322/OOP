@@ -1,6 +1,0 @@
-2024-11-21 21:35 - ERROR - Incorrect date format in text file in string 13: time data '1999/03/29' does not match format '%Y-%m-%d'
-2024-11-21 21:35 - ERROR - Incorrect date format in text file in string 14: time data '1991-16-11' does not match format '%Y-%m-%d'
-2024-11-21 21:35 - ERROR - Incorrect date format in text file in string 15: unconverted data remains: 0
-2024-11-21 21:35 - ERROR - Incorrect date format in text file in string 18: time data '1997-13-10' does not match format '%Y-%m-%d'
-2024-11-21 21:36 - ERROR - Incorrect index input for a weekday name: list index out of range
-2024-11-21 21:36 - ERROR - Incorrect input for the program: invalid literal for int() with base 10: 'zdvdg'
