@@ -18,4 +18,3 @@
 + **food_price_comparator.py**: class with program logic;
 + **main.py**: main file to run the program;
 + **food.txt**: file with data about restaurants and menus;
-+ **errors.log**: all errors occurring in the program will be written to this file.
