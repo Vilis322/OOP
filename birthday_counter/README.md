@@ -11,4 +11,3 @@
 + **birthday_days.py**: class with program logic;
 + **main.py**: main file to run the program; 
 + **birthday_dates.txt**: file with dates data;
-+ **errors.log**: all errors occurring in the program will be written to this file.
